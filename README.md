@@ -3,7 +3,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/hypebright/RPharmaTest/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hypebright/RPharmaTest/actions/workflows/R-CMD-check.yaml)
-[![test-coverage](https://codecov.io/gh/hypebright/RPharmaTest/branch/main/graph/badge.svg)](https://codecov.io/gh/hypebright/RPharmaTest?branch=main)
+[![test-coverage](https://github.com/hypebright/RPharmaTest/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/hypebright/RPharmaTest/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 Testing can be extremely annoying. If you've got so far to even write tests, you need to be able to run them quickly and easily. This package is a minimal example of how to set up a package with tests that can be run with GitHub Actions.
