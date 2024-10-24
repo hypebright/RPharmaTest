@@ -1,12 +1,11 @@
 Package: RPharmaTest
-Title: What the Package Does (One Line, Title Case)
+Title: Showing a minimal example for automated testing of R packages and Shiny applications
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Veerle", "Eeftink - van Leemput", , "veerle@hypebright.nl", role = c("aut", "cre"))
+Description: This package shows a minimal example for automated testing of R packages and Shiny applications. It 
+    is used in the R/Pharma 2024 presentation for the lightning talk From Annoying to Automated - Running Tests with GitHub Actions
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
