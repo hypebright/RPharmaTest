@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Veerle", "Eeftink - van Leemput", , "veerle@hypebright.nl", role = c("aut", "cre"))
 Description: This package shows a minimal example for automated testing of R packages and Shiny applications. It 
-    is used in the R/Pharma 2024 presentation for the lightning talk From Annoying to Automated - Running Tests with GitHub Actions
+    is used in the R/Pharma 2024 presentation for the lightning talk From Annoying to Automated - Running Tests with GitHub Actions.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
